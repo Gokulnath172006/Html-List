@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>An Unordered List OF College</h1>
+
+<ul>
+  <li>Kings Engineering College</li>
+  <li>Apollo Engineering College</li>
+  <li>Saveetha Engineering College</li>
+  <li>Sastha College Of Engineering</li>
+</ul>  
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>An Ordered List OF College</h1>
+
+<ol>
+  <li>Kings Engineering College</li>
+  <li>Apollo Engineering College</li>
+  <li>Saveetha Engineering College</li>
+  <li>Sastha College Of Engineering</li>
+</ol>  
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>A Description List For College</h2>
+
+<dl>
+  <dt>Apollo Engineering College</dt>
+  <dd>- it has good infrastructure</dd>
+  <dt>Anna University</dt>
+  <dd>- it Focuses on Studies </dd>
+  <dt>Saveetha College of Engineering</dt>
+  <dd>-it gives importance to extra curricular activity</dd>
+</dl>
+
+</body>
+</html>
